@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAddAlarm" type="id" />
+    <item name="lvListAlarm" type="id" />
+    <item name="tabAlarm" type="id" />
+</resources>
